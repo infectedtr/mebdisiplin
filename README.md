@@ -15,8 +15,6 @@ Milli Eğitim Bakanlığı Ortaöğretim Kurumları Yönetmeliği Ödül ve Disi
 * **Toplu Sınıf / Öğrenci Yükleme:** e-Okul'dan indirilen sınıf listesi Excel (`.XLS`, `.XLSX`) dosyaları saniyeler içinde içeri aktarılır.
 * **Öğrenci Ceza ve Puan Takibi:** Öğrencilerin ceza puanları (100 üzerinden düşüm) ve disiplin geçmişi anlık takip edilir.
 
-### 🌐 3. MEB / Fatih Ağı Kesintisiz Lisanslama (Cloudflare Worker Proxy)
-* **Engelsiz Okul Ağı Erişimi:** Okullardaki MEB/Fatih internet filtrelerine takılmayan güvenli proxy altyapısı sayesinde kesintisiz lisans doğrulaması ve canlı sürüm kontrolü.
 * **Hibrit Çalışma:** Çevrimdışı (offline) lisans anahtarı ve donanım kilitleme (HWID) desteği ile internetsiz ortamlarda da tam kapasite çalışır.
 
 ### 🖥️ 4. Modern Masaüstü Deneyimi
